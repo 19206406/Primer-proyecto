@@ -7,4 +7,9 @@ int main(){
 	cin >> nombre;
 	
 	cout << "Hola espero que estes bien " << nombre << "";
+
+	int num1 = 5;
+	double num2 = 4;
+	double resultado = num1 + num2;
+	
 }
